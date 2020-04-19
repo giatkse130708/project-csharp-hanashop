@@ -1,0 +1,12 @@
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\FoodsStore.Domain.dll.config
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\FoodsStore.Domain.dll
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\FoodsStore.Domain.pdb
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\PayPalHttp-Dotnet.dll
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\obj\Debug\FoodsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\obj\Debug\FoodsStore.Domain.csproj.CopyComplete
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\obj\Debug\FoodsStore.Domain.dll
+C:\Users\Kha Gia\source\repos\Project-CSharp-HanaShop\FoodsStore\FoodsStore.Domain\obj\Debug\FoodsStore.Domain.pdb
